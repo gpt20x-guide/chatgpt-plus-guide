@@ -1,0 +1,6 @@
+title: ChatGPT Plus 国内开通指南
+description: 国内用户开通 ChatGPT Plus / Pro 的方法、价格对比与常见问题
+url: "https://gpt20x-guide.github.io"
+baseurl: "/chatgpt-plus-guide"
+plugins:
+  - jekyll-sitemap

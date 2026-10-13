@@ -50,7 +50,7 @@ ChatGPT Pro 官方订阅需要海外信用卡，国内用户直接付款通常�
 ## 五、延伸阅读
 
 - [ChatGPT Pro 500 充值指南：500 美元套餐和 Pro 100、Pro 200 有什么区别？](https://gpt20x.com/blog/chatgpt-pro-500-recharge-guide)
-- [GPT-6 Astra 使用指南](./gpt-6-astra-guide.html)
+- [GPT-6 Astra 使用指南](./gpt-6-astra-guide.md)
 - [返回首页](./)
 
 ---

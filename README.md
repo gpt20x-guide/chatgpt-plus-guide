@@ -193,6 +193,8 @@ Codex 的可用范围、额度和支持套餐可能会发生变化。
 - [ChatGPT Plus / Pro 国内开通完整教程](https://gpt20x.com/blog/chatgpt-plus-pro-recharge-guide)
 - [ChatGPT Plus 价格与充值方式说明](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)
 - [GPT20X ChatGPT 使用指南](https://gpt20x.com/)
+- [GPT-6 Astra 使用指南](./gpt-6-astra-guide.md)
+- [ChatGPT Pro 100、Pro 200、Pro 500 区别与选择指南](./chatgpt-pro-plans-compare.md)
 
 ---
 

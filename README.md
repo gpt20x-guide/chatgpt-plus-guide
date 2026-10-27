@@ -196,6 +196,18 @@ Codex 的可用范围、额度和支持套餐可能会发生变化。
 - [GPT-6 Astra 使用指南](./gpt-6-astra-guide.md)
 - [ChatGPT Pro 100、Pro 200、Pro 500 区别与选择指南](./chatgpt-pro-plans-compare.md)
 
+### GPT-6.1 Terra 新模型使用指南
+
+2026 年 10 月 27 日，OpenAI 发布 GPT-6.1 Terra，
+重点提升了视觉理解、电脑操作和编程任务执行效率。
+
+对于 ChatGPT Plus、Pro 和 Codex 用户，新模型提供了
+更高效的日常工作选择。本文整理了会员使用权限、
+Codex 支持情况、模型区别及国内用户注意事项。
+
+[查看 GPT-6.1 Terra 完整使用指南](./gpt-6-1-terra-guide.md)
+
+
 ---
 
 ## 免责声明
